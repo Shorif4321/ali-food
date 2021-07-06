@@ -129,24 +129,24 @@ input{
     padding: 10px;
 }
 .image-glary{
-    
-    padding:15px;
+    padding:5%;
     background-image:linear-gradient(blue,pink);
 }
 
-h6{
-    font-size: 40px;
-    color: rgb(120, 221, 179);
-    text-align: center;
-}
 .image-glary img{
     width: 90%;
     border-radius: 50%;
 }
 .image-item{
-   width: 100%;
-    display: flex;
+   display: flex;
+   width: 33%;
     
+    
+}
+h6{
+    font-size: 40px;
+    color: rgb(120, 221, 179);
+    text-align: center;
 }
 small{
     text-align: center;
